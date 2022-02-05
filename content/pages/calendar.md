@@ -6,33 +6,273 @@ uid: 7421c195-6f9d-6e7a-f010-3c6fff4eceed
 
 There are three sessions, two Math Camps and an extra topic, at the bottom of the calendar. These will be given when students require the background needed to understand the next series of lectures and problems.
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | The Course at a Glance |
-| 2 | The Learning Problem in Perspective |
-| 3 | Regularization and Reproducing Kernel Hilbert Spaces |
-| 4 | Regression and Least-Squares Classification |
-| 5 | Support Vector Machines for Classification |
-| 6 | Generalization Bounds, Intro to Stability |
-| 7 | Stability of Tikhonov Regularization |
-| 8 | Consistency and Uniform Convergence over Function Classes |
-| 9 | Necessary and Sufficient Conditions for Uniform Convergence |
-| 10 | Bagging and Boosting |
-| 11 | Computer Vision, Object Detection |
-| 12 | Loose Ends |
-| 13 | Approximation Theory |
-| 14 | RKHS, Mercer Thm, Unbounded Domains, Frames and Wavelets |
-| 15 | Bioinformatics |
-| 16 | Text |
-| 17 | Regularization Networks |
-| 18 | Morphable Models for Video |
-| 19 | Leave-One-Out Approximations |
-| 20 | Bayesian Interpretations |
-| 21 | Multiclass Classification |
-| 22 | Stability and Glivenko-Cantelli Classes |
-| 23 | Symmetrization, Rademacher Averages |
-| 24 | Project Presentations |
-| 25 | Project Presentations |
-| Math  {{< br >}}Camp | Lagrange Multipliers/Convex Optimization |
-| Math  {{< br >}}Camp | Functional Analysis |
-| Extra  {{< br >}}Topic | SVM Rules of Thumb
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Course at a Glance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Learning Problem in Perspective
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Regularization and Reproducing Kernel Hilbert Spaces
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Regression and Least-Squares Classification
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Support Vector Machines for Classification
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Generalization Bounds, Intro to Stability
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Stability of Tikhonov Regularization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Consistency and Uniform Convergence over Function Classes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Necessary and Sufficient Conditions for Uniform Convergence
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Bagging and Boosting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Computer Vision, Object Detection
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Loose Ends
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Approximation Theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+RKHS, Mercer Thm, Unbounded Domains, Frames and Wavelets
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Bioinformatics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Text
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Regularization Networks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Morphable Models for Video
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Leave-One-Out Approximations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Bayesian Interpretations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Multiclass Classification
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Stability and Glivenko-Cantelli Classes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Symmetrization, Rademacher Averages
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Math  
+Camp
+{{< tdclose >}}
+{{< tdopen >}}
+Lagrange Multipliers/Convex Optimization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Math  
+Camp
+{{< tdclose >}}
+{{< tdopen >}}
+Functional Analysis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Extra  
+Topic
+{{< tdclose >}}
+{{< tdopen >}}
+SVM Rules of Thumb
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
